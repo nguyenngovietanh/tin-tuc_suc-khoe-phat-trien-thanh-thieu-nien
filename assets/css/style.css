@@ -399,6 +399,9 @@ nav .navbar .links li:hover > i,
 .post-item {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }
 .more-topic-tag {
   width: 75%;
